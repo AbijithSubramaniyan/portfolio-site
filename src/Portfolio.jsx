@@ -115,7 +115,7 @@ export default function Portfolio() {
             <a href="https://github.com/AbijithSubramaniyan" target="_blank" rel="noopener noreferrer" className="hover:text-teal-400">
               <FaGithub />
             </a>
-            <a href="www.linkedin.com/in/abijith-subramaniyan-kunnath-851567126" target="_blank" rel="noopener noreferrer" className="hover:text-teal-400">
+            <a href="https://www.linkedin.com/in/abijith-subramaniyan-kunnath-851567126" target="_blank" rel="noopener noreferrer" className="hover:text-teal-400">
               <FaLinkedin />
             </a>
             <a href="https://instagram.com/abijithsubramaniyan" target="_blank" rel="noopener noreferrer" className="hover:text-teal-400">
