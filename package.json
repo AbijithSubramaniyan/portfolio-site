@@ -2,7 +2,6 @@
   "name": "abijith-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://abijithsubramaniyan.github.io/portfolio-site",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
